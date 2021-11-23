@@ -1,2 +1,2 @@
 # maquineta
-Maquineta feita com JavaScript na aula de Programação e Algoritmo
+## https://lordeiro-dias.github.io/maquineta/
